@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcvernetti
-- 👀 I’m interested in java, python, js, css, html, sql, docker, Git, 
+- 👀 I’m interested in java, python, js, css, html, sql, docker, Git...
 - 🌱 I’m currently learning the above languages.
-- 💞️ I’m looking to collaborate on dev in home office.
+- 💞️ I’m looking to collaborate on home office software development.
 - 📫 How to reach me? Please, use this email: jcvernetti@gmail.com
 
 <!---
