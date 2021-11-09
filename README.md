@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcvernetti
-- 👀 I’m interested in java, javascript, css, html, MySQL (Workbench e phpadmin), python, jupyter notebook, docker, Git, delphi,...
+- 👀 I’m interested in java, javascript, css, html, Bootstrap, MySQL (Workbench e phpadmin), python, jupyter notebook, docker, Kubernetes, node.js, angular, Spring Boot, Git, Bithub, Github, ...
 - 🌱 I’m currently learning the above languages.
-- 💞️ I’m looking to collaborate on home office software development.
+- 💞️ I am currently working as a Java developer at an IT multinational.
 - 📫 How to reach me? Please, use this email: jcvernetti@gmail.com
 
 <!---
